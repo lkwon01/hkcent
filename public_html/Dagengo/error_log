@@ -1,0 +1,27 @@
+[14-Dec-2022 20:28:04 UTC] PHP Warning:  fopen(/home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/mojo-marketplace.php): failed to open stream: No such file or directory in /home1/hkcent24/public_html/Dagengo/wp-includes/functions.php on line 6570
+[14-Dec-2022 20:28:29 UTC] PHP Warning:  Creating default object from empty value in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56
+[14-Dec-2022 20:28:32 UTC] PHP Warning:  include(/home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/vendor/composer/../../admin/ryte/class-ryte-option.php): failed to open stream: No such file or directory in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/composer/ClassLoader.php on line 444
+[14-Dec-2022 20:28:32 UTC] PHP Warning:  include(): Failed opening '/home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/vendor/composer/../../admin/ryte/class-ryte-option.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/composer/ClassLoader.php on line 444
+[14-Dec-2022 20:28:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WPSEO_Ryte_Option' not found in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/admin/ryte/class-ryte.php:150
+Stack trace:
+#0 /home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/admin/ryte/class-ryte.php(128): WPSEO_Ryte->get_option()
+#1 /home1/hkcent24/public_html/Dagengo/wp-includes/class-wp-hook.php(307): WPSEO_Ryte->fetch_from_ryte()
+#2 /home1/hkcent24/public_html/Dagengo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home1/hkcent24/public_html/Dagengo/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#4 /home1/hkcent24/public_html/Dagengo/wp-cron.php(138): do_action_ref_array('wpseo_ryte_fetc...', Array)
+#5 {main}
+  thrown in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/admin/ryte/class-ryte.php on line 150
+[22-Jan-2023 16:05:20 UTC] Cron reschedule event error for hook: mm_cron_monthly, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"monthly","args":[],"interval":2419200}
+[22-Jan-2023 16:05:25 UTC] PHP Warning:  require(/home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php): failed to open stream: No such file or directory in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php on line 90
+[22-Jan-2023 16:05:25 UTC] PHP Fatal error:  require(): Failed opening required '/home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php on line 90
+[22-Jan-2023 16:05:34 UTC] PHP Warning:  include(): Failed opening '/home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/vendor/composer/../../src/integrations/front-end/theme-titles.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 571
+[22-Jan-2023 16:05:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Automattic\Jetpack\Connection\Error_Handler::check_api_response_for_errors() in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-client.php:44
+Stack trace:
+#0 /home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-client.php(462): Automattic\Jetpack\Connection\Client::remote_request(Array, NULL)
+#1 /home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/class.jetpack-plan.php(210): Automattic\Jetpack\Connection\Client::wpcom_json_api_request_as_blog('/sites/0', '1.1')
+#2 /home1/hkcent24/public_html/Dagengo/wp-includes/class-wp-hook.php(308): Jetpack_Plan::refresh_from_wpcom('')
+#3 /home1/hkcent24/public_html/Dagengo/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 /home1/hkcent24/public_html/Dagengo/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/hkcent24/public_html/Dagengo/wp-content/plugin in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-client.php on line 44
+[22-Jan-2023 16:15:29 UTC] Cron reschedule event error for hook: jetpack_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"jetpack_sync_interval","args":[],"interval":300}
+[22-Jan-2023 16:15:29 UTC] Cron reschedule event error for hook: jetpack_sync_full_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"jetpack_sync_interval","args":[],"interval":300}

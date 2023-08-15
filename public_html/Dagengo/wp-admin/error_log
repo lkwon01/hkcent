@@ -1,0 +1,504 @@
+[27-Mar-2022 14:16:28 UTC] PHP Warning:  Creating default object from empty value in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56
+[27-Mar-2022 14:16:28 UTC] PHP Warning:  Creating default object from empty value in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56
+[27-Mar-2022 14:16:29 UTC] PHP Warning:  Creating default object from empty value in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56
+[27-Mar-2022 14:16:29 UTC] PHP Warning:  Creating default object from empty value in /home1/hkcent24/public_html/Dagengo/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 56
+[27-Mar-2022 14:16:29 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:16:31 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:16:31 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:16:33 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:16:33 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:16:33 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:16:33 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:17:34 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:17:35 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-admin/user-edit.php'), require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:19:39 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:21:40 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:23:41 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:25:42 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:27:43 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:29:44 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:31:45 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:33:46 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:35:47 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:37:47 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:39:49 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:41:50 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:43:51 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:45:52 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:47:53 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:49:54 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:51:55 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:53:55 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:55:57 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:57:58 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 14:59:59 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:02:01 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:04:01 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:06:02 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:08:03 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:10:04 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:12:05 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:14:06 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:16:07 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:18:08 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:20:08 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:22:11 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:24:10 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:26:12 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:28:13 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:30:14 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:32:15 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:34:16 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:36:16 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:38:17 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta
+[27-Mar-2022 15:40:19 UTC] WordPress database error Specified key was too long; max key length is 767 bytes for query CREATE TABLE wppf_ce4wp_contacts (
+			contact_id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+			email varchar(200) NOT NULL DEFAULT '',
+			first_name varchar(200) DEFAULT '',
+			last_name varchar(200) DEFAULT '',
+			telephone varchar(200) DEFAULT '',
+            consent varchar(200) DEFAULT '',
+			PRIMARY KEY  (contact_id),
+			UNIQUE KEY email (email)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, CreativeMail\Managers\DatabaseManager->update_database_check, CreativeMail\Managers\DatabaseManager->create_contacts_table, dbDelta

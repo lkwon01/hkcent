@@ -1,0 +1,163 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color:#000000;
+}
+p{
+  line-height:2;
+  font-family: sans-serif;
+  font-size:1em;
+
+
+}
+
+h1{
+  font-size: 5.625em;
+  line-height: 1em;
+  color:#66bfbf;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  color:#66bfbf;
+  font-weight: bold;
+  text-align: center;
+}
+h3{
+  font-size: 1em;
+  font-family: 'Merriweather', serif;
+  color:#11999e;
+  font-weight: normal;
+  text-align: center;
+}
+h4{
+  font-size: 1em;
+  font-family: sans-serif;
+  color:#11999e;
+  font-weight: normal;
+  text-align: left;
+}
+hr{
+  border: dotted;
+  border-bottom: none;
+  margin: 100px auto 100px;
+
+
+border-width:5px;
+border-color: #EAF6F6;
+width: 10%;
+
+
+}
+a {
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#11999e;
+}
+.footer-link{
+  color: #eaf6f6;
+}
+.topcontainer{
+  background-color: #bce6eb;
+  position:relative;
+  padding-top: 100px;
+}
+.middle-container{
+position:relative;
+
+}
+.bottom-container{
+background-color: #66bfbf;
+margin-top: 30px;
+margin-bottom: 30px;
+padding: 20px;
+}
+.top-cloud {
+  position: absolute;
+  right: 800px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+
+}
+.intro{
+  width: 30%;
+  margin:auto;
+
+}
+.profile{
+  width: 100%;
+  text-align: center;
+  margin: 50px 0 50px;
+  line-height: 1.5;
+}
+.skill{
+  margin: 100px 0 100px;
+}
+.skill-row{
+  font-family: sans-serif;
+  width:50%;
+  text-align: left;
+  line-height: 1;
+  position:relative;
+  margin-left: 30em;
+
+}
+
+.profile-image{
+  width: 20%;
+  margin-right: 40px;
+  margin-left: 40px;
+
+}
+
+.skills-imag{
+  width:40%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.dicegame-imag{
+  width: 40%;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.drumkit-imag{
+  width: 40%;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66bfbf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11999e;
+  text-decoration: none;
+}
+.contact-me{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75em;
+  padding:20px;
+}
